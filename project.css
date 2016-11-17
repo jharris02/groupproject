@@ -1,0 +1,17 @@
+.jharris, .rmadison, .jdoe {
+	width: 300px;
+	float: left;
+	margin: 10px;
+	
+}
+ p {text-align: center;}
+
+figcaption {background-color: red;}
+body {background-color: #acacac;}
+img {
+	text-align: center;
+}
+ h4 {font-family:  'Pacifico', cursive;
+ 	letter-spacing: 0.2rem;
+}
+figure {text-align: center;}

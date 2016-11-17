@@ -1,0 +1,205 @@
+/* Main Style*/
+body{
+    font-family: 'Pacifico', cursive;
+    color: #9fa8a3;
+    background-color: #cfe0db;
+    width: 960px;
+    margin: auto;
+}
+/* Navigation Bar */
+.nav{
+    width: 960px;
+    text-align: center;
+    background-color: #ffffff;
+    margin: auto;
+}
+
+.nav li{
+    display: inline;
+    margin-left: 20px;
+    font-size: 36px;
+    color: #9fa8a3;
+    background-color: #ffffff;
+}
+.nav a{
+    text-decoration: none;
+    font-size: 24px;
+    background-color: #ffffff;
+    color: #9fa8a3 ;
+}    
+.nav a:hover{
+    color: #ff6666;
+}
+.nav ul{
+    list-style-type: none;
+    background-color: #ffffff;
+    margin: 0px;
+}
+/*Main image*/
+.mainimage img{
+    width: 960px;
+    margin: auto;
+    margin-bottom: 100px;
+}
+/*Main Page*/
+
+.coffeeotd{
+    float: left;
+    width: 50%;
+    text-align: center;
+    margin: auto;
+}
+.main .coffeeotd img{
+    width: 300px;
+    margin-top: 15px;
+}
+.main .coffeeotd h1{
+    font-size: 24px;
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    color: #ffffff;
+}
+.main .coffeeotd h1:hover{
+    color: #ff6666;
+}
+.main .coffeeotd p{
+    font-size: 15px;
+    width: 50%;
+    text-align: center;
+    margin: auto;
+}
+.main .maincontent{
+    float: left;
+    width: 50%;
+    text-align: center;
+    margin: auto;
+}
+.main .maincontent img{
+    width: 300px;
+    margin-top: 15px;
+}
+.main .maincontent h1{
+    font-size: 24px;
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    color: #ffffff;
+}
+.main .maincontent h1:hover{
+    color: #ff6666;
+}
+.main .maincontent p{
+    font-size: 15px;
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 50px;
+}
+
+.footer ul{
+    text-align: center;
+    background-color: #ffffff;
+    clear: both;
+    margin-bottom: 0px;
+    line-height: 36px;
+}
+
+.footer li{
+    display: inline;
+    margin-left: 32px;
+    margin-right: 32px;
+    background-color: #ffffff;
+}
+.footer a{
+    text-decoration: none;
+    background-color: #ffffff;
+    color: #9fa8a3;
+}
+.footer img{
+    width: 20px;
+    margin-top: 20px;
+}
+/* Menu Style */
+#Title {
+    text-align: center;
+}
+
+h3{
+    text-align: left;
+    position: relative;
+    
+    
+}
+
+.submenu{
+    display: inline-block;
+    width: 28%;
+    margin: 1%;
+    
+}
+
+.submenu ul li{
+    text-decoration: none;
+    list-style-type: none;
+    padding-left: 1%;
+    margin-left: 1%;
+}
+
+
+
+}
+.menu ul{
+    list-style-type: none;
+    width:25%;
+    float:left;
+    margin:10px;
+}
+
+.menu{
+    width:25%;
+    margin:10px;
+    display:inline-block;
+    vertical-align: top;
+    text-decoration: none;
+    list-style-type:none;
+    padding-bottom: inherit;
+    margin:4%;
+    padding-left: 1%,
+}
+
+    
+}
+#prices{
+    padding-top 300px;.jharris, .rmadison, .jdoe {
+	width: 300px;
+	float: left;
+	margin: 10px;
+	
+}
+/*About Us Page*/
+.jharris, .rmadison, .jdoe {
+	width: 300px;
+	float: left;
+	margin: 10px;
+	
+ p {text-align: center;}
+
+figcaption{
+    background-color: red;
+}
+ h4 {
+     font-family:  'Pacifico', cursive;
+ 	letter-spacing: 0.2rem;
+}
+figure {
+    text-align: center;
+    text-align: left;
+    padding-bottom: inherit;
+    width: 10%;
+    
+}
+    
+
+
+
